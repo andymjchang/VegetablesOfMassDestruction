@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.970ff77f-d5fc-4bbf-98c6-4d5bb9d59340",
+  "RepoID": "dv.repo.e8d62b72-0fd6-40b4-ae69-5a44858c6e22",
+  "Path": "F:\\DDGit",
+  "AccountID": "Google_110398046446725506386",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.971",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "DumpsterDivers",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "NONE"
+}

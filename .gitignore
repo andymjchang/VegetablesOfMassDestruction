@@ -1,0 +1,48 @@
+# Visual Studio / IDE Files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcworkspace/
+*.workspace/
+
+# Unreal Engine Engine/Project Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.ddc/
+
+# Cooked Assets / Packaged Builds
+Windows/
+WindowsEditor/
+Mac/
+MacEditor/
+Linux/
+LinuxEditor/
+Android/
+IOS/
+*.ucas
+*.utoc
+*.pak
+*.apk
+*.aab
+
+# Crash Reports and Logs
+*.log
+crashinfo-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
